@@ -1,0 +1,12 @@
+.dropDownMenuContainer {
+  position: relative;
+}
+
+.dropDownMenuContent {
+  position: absolute;
+  left: 0;
+  top: 32px;
+  background-color: #FFF;
+  visibility: hidden;
+  border: 1px solid #000;
+}
